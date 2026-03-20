@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "action":  {
     "defailt_popup": "test.html",
-    "default_icon": "notification_icon.png"
+    "default_icon": "notification-icon.png"
   }
 }

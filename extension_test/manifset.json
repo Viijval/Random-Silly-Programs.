@@ -1,0 +1,10 @@
+{
+  "name": "Extension testing",
+  "description": "Testing extension to further build new extension for phishing",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action":  {
+    "defailt_popup": "test.html",
+    "default_icon": "notification_icon.png"
+  }
+}
